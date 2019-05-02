@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "360140283914",
+    "firebase_url": "https://bookalive-270fb.firebaseio.com",
+    "project_id": "bookalive-270fb",
+    "storage_bucket": "bookalive-270fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360140283914:android:255a391c575b6a8d",
+        "android_client_info": {
+          "package_name": "com.BookAlive.Quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360140283914-24f5ddvh2p2ul3t9rbtca1757lgdv2df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV6IL54QETjzNumWuDja0DvefEBJI0eQw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

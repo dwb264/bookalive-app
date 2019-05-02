@@ -1,0 +1,37 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Boy
+Author: Junior IT
+URL: https://poly.google.com/view/fMNMtRXBOHn
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Button
+Author: Poly by Google
+URL: https://poly.google.com/view/aweIphqphRJ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: car
+Author: Darshan Singh
+URL: https://poly.google.com/view/32jG7jBovTJ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: PEARLGREY DDR ARROW PURPLE
+Author: Pearl Grey
+URL: https://poly.google.com/view/0H5P-Za5MP2
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Teacher
+Author: Poly by Google
+URL: https://poly.google.com/view/5v5j_lqOHTO
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Treasure Chest
+Author: Troct Developer (Troctzul)
+URL: https://poly.google.com/view/45oG2PXzYQu
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode

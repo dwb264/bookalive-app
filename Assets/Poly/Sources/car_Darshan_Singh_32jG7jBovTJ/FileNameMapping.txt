@@ -1,0 +1,7 @@
+Firefly.bin -> 6E0A2332CE7E88D72BB58CB2367E1600.bin
+Glass_sg_base_blended.png -> D9D45869206497F47DBF5325A5026646.png
+Glass_sg_metallic_roughness.png -> 46AA2C2F7D5B234D328FF4B07898B766.png
+Main_sg_base.jpg -> 43B05A851ABD97C41FA501E64084AFC0.jpg
+Main_sg_metallic_roughness.png -> 5796A7586C7CE3297D72C46B2A7437E0.png
+Ground_sg_base_blended.png -> DE9D6656C9B6333861D6C294351DDA84.png
+Glass2_mat_base_blended.png -> 836C88F710FB1C8565650F22E256B95B.png
